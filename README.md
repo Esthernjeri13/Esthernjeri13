@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I am Esther Mungai
 
-<!--
-**Esthernjeri13/Esthernjeri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Nairobi, Kenya. I build full-stack web applications, integrate AI and machine learning into production systems, and deploy everything securely to the cloud.
 
-Here are some ideas to get you started:
+What I work with:
+Python, Django, React, Node.js, PostgreSQL, MySQL, MongoDB, Docker, CI/CD, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I am currently building:
+AI-powered financial advisory platform with machine learning forecasting and LLM integration
+
+Certifications:
+Sofware Engineer PLP Africa| AWS Cloud Practitioner | Google Cybersecurity Professional | EC Council Ethical Hacking | Generative AI Nanodegree | 8 competitive scholarship programmes
+
+Portfolio: https://esthernjeri13.github.io/esther-portfolio/
+
+Email: msmungai00@gmail.com
